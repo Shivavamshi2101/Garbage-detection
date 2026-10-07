@@ -1,0 +1,5 @@
+__pycache__/
+*.onnx
+yolo*.pt
+runs/
+.DS_Store
